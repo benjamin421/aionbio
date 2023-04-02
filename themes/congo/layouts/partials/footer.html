@@ -64,23 +64,6 @@
       </div>
     {{ end }}
   </div>
-  <div id="custom-substack-embed"></div>
-
-<script>
- window.CustomSubstackWidget = {
-  substackUrl: "thebenjamin.substack.com",
-  placeholder: "example@gmail.com",
-  theme: "custom",
-  colors: {
-    primary: "#0091EA",
-    input: "#262626",
-    email: "#EDEDED",
-    text: "#EDEDED",
-  }
-};
-</script>
-<script src="https://substackapi.com/widget.js" async></script>
-
   {{/* Extend footer - eg. for extra scripts, etc. */}}
   {{ if templates.Exists "partials/extend-footer.html" }}
     {{ partialCached "extend-footer.html" . }}

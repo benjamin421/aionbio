@@ -20,11 +20,6 @@
   pageRef = "research"
   weight = 25
 
-[[main]]
-  name = "Writing"
-  url = "https://www.consciousrepository.com/"
-  weight = 30
-
   [[main]]
   name = "Work with me"
   pageRef = "workwithme"

@@ -4,13 +4,13 @@
 
 theme = "congo"
 
-# baseURL = "https://thebenjam.in/"
+# baseURL = "https://aion.bio/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
 googleAnalytics = "UA-123249489-5"
 
-title = "Benjamin Anderson"
+title = "Aion Biosciences"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
