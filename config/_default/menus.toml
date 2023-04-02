@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Mission"
-  pageRef = "mission"
+  name = "Learn More"
+  pageRef = "about"
   weight = 10
 
 [[main]]
