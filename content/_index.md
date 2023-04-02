@@ -1,16 +1,18 @@
 ---
-title: "Benjamin Anderson"
-description: "Disciple of Experience"
+title: "Aion Biosciences"
+description: "Aion is pioneering the search for more effective intervention strategies for aging."
 ---
 
 
 
 {{< lead >}}
-I simplify complex processes and build resilient systems.
+Aion (Greek: Αἰών): perpetual, unbound, eternal time. 
 {{< /lead >}}
 
-Hey there, I'm Ben. I spend most of my [time]({{< ref "about" >}}) these days consulting, producing a [podcast](https://www.vancecrowe.com/podcast), and helping others secure their life's wisdom through what we call a ['Legacy Interview'](https://legacyinterviews.com/).
+Aion is pioneering the search for more effective intervention strategies for aging. 
 
-My [research]({{< ref "research" >}}) is focussed on finding causality in complexity. 
+We are doing this by exploring the flow of causally relevant information in complex biological systems. We then seek to determine optimal strategies to modulate endogenous bioelectric networks for efficient, precise, and translational rejuvination.
+
+[Learn more about our mission and how we work.](this)
 
 

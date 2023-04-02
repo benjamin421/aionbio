@@ -11,19 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Mission"
+  pageRef = "mission"
   weight = 10
 
 [[main]]
-  name = "Research"
-  pageRef = "research"
-  weight = 25
-
-  [[main]]
-  name = "Work with me"
-  pageRef = "workwithme"
-  weight = 35
+  name = "Contact"
+  url = "mailto:info@aion.bio"
+  weight = 30
 
 
 
