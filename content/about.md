@@ -18,7 +18,7 @@ Aion is pioneering the search for more effective intervention strategies for agi
 
 — Ant Fugue | Gödel, Escher, Bach
 
-We are exploring the flow of causally relevant information in complex biological systems. We then seek to determine optimal strategies to modulate endogenous bioelectric networks for efficient, precise, and translational rejuvination.
+Our research focuses on investigating the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness this knowledge to develop innovative, precise, and translatable rejuvenation therapies. These groundbreaking techniques have the potential to revolutionize regenerative medicine, addressing age-related decline and improving overall health. By unlocking the secrets of bioelectric networks, we hope to pave the way for a future where rejuvenation and regeneration are possible and accessible to all.
 
 ### Affiliated Publications
 
