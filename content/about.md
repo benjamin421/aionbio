@@ -25,6 +25,8 @@ We are exploring the flow of causally relevant information in complex biological
 - April 2, 2023 | [Bioelectricity: A top-down control model to promote more effective aging interventions](https://osf.io/xjfmt/) — Preprint
 
 - November 12, 2022 | [Reductionism is not effective](https://www.consciousrepository.com/p/reductionism-is-not-effective)
+
+- July 23, 2022 | [Causal Emergence in Biological Networks](https://www.thebenjam.in/research/causal-emergence-biological-networks/)
 ---
 ## Ethos
 
