@@ -22,7 +22,7 @@ Our research focuses on investigating the flow of causally relevant information 
 
 ### Affiliated Publications
 
-- April 2, 2023 | [Bioelectricity: A top-down control model to promote more effective aging interventions](https://osf.io/xjfmt/) — Preprint
+- April 2, 2023 | [Bioelectricity: A top-down control model to promote more effective aging interventions](https://www.liebertpub.com/doi/10.1089/bioe.2023.0013)
 
 - November 12, 2022 | [Reductionism is not effective](https://www.consciousrepository.com/p/reductionism-is-not-effective)
 
