@@ -1,6 +1,6 @@
 ---
 title: "Aion Biosciences"
-description: "Aion is pioneering the search for more effective intervention strategies for aging."
+description: "Aion's purpose is to uncover novel intervention strategies targeting aging."
 ---
 
 
@@ -9,9 +9,9 @@ description: "Aion is pioneering the search for more effective intervention stra
 Aion (Greek: Αἰών): perpetual, unbound, eternal time. 
 {{< /lead >}}
 
-Aion is pioneering the search for more effective intervention strategies for aging. 
+Aion's purpose is to uncover novel intervention strategies targeting aging. 
 
-We are doing this by exploring the flow of causally relevant information in complex biological systems. We then seek to determine optimal strategies to modulate endogenous bioelectric networks for efficient, precise, and translational rejuvination.
+We are doing this by using computational appraoches to understand information flow in complex biological systems. We then seek to determine optimal strategies to modulate endogenous bioelectric networks for efficient, precise, and translational rejuvination. 
 
 [Learn More.]({{< ref "about" >}})
 
