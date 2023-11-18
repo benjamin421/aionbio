@@ -10,7 +10,7 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-Aion's purpose is to uncover novel intervention strategies targeting aging. 
+A comprehensive overview of the research being pursued by Aion. 
 {{< /lead >}}
 
 ## I. Executive Summary
@@ -357,13 +357,13 @@ Phase 2 of our research program is centered on the development and refinement of
 - Building on [Project 1A](#project-1a)'s advancements, Project 2A extends iPSC generation techniques to a wider variety of cell types and explores precision in partial reprogramming. This project seeks to standardize bioelectric and chemical reprogramming across different cell types and develop targeted strategies for cellular age reversal. The integration of these techniques into broader cell types signifies a major step in customizable and versatile regenerative medicine applications.
 
 *ii. Project 2B. Invertebrate Model Lifespan Study*
-- This project integrates findings from Projects 1A, 1D, and 2A to conduct a comprehensive lifespan study in invertebrates like C. elegans. By applying bioelectric modulation and chemical reprogramming, Project 2B aims to uncover the effects of these interventions on aging processes, providing critical insights into lifespan extension and the mechanisms of aging at an organismal level.
+- This project integrates findings from Projects [1A](#project-1a), [1D](#project-1d), and [2A](#project-2a) to conduct a comprehensive lifespan study in invertebrates like C. elegans. By applying bioelectric modulation and chemical reprogramming, Project 2B aims to uncover the effects of these interventions on aging processes, providing critical insights into lifespan extension and the mechanisms of aging at an organismal level.
 
 *iii. Project 2C. Rodent Model Deep Tissue Bioelectric Imaging*
-- Leveraging advancements from Projects 1B and 1C, Project 2C focuses on implementing deep tissue bioelectric imaging in rodent models. This project explores both non-invasive imaging techniques and the use of deep learning models for data extrapolation, aiming to achieve a comprehensive understanding of mammalian bioelectric phenomena. The success of this project is crucial for translating bioelectric research findings into mammalian and potentially human models.
+- Leveraging advancements from Projects [1B](#project-1b) and [1C](#project-1c), Project 2C focuses on implementing deep tissue bioelectric imaging in rodent models. This project explores both non-invasive imaging techniques and the use of deep learning models for data extrapolation, aiming to achieve a comprehensive understanding of mammalian bioelectric phenomena. The success of this project is crucial for translating bioelectric research findings into mammalian and potentially human models.
 
 *iv. Project 2D. Advanced Bioelectric Data Integration and Application*
-- This project aims to transform the computational strategies developed in Project 1C into practical applications in biological research and medical fields. Project 2D focuses on integrating electrome data with ongoing biological research, developing predictive models for clinical use, implementing these insights in diagnostic and therapeutic technologies, and expanding the application to more complex organismal studies. This project is pivotal in bridging the gap between computational bioelectric data and real-world biological and clinical applications.
+- This project aims to transform the computational strategies developed in [Project 1C](#project-1c) into practical applications in biological research and medical fields. Project 2D focuses on integrating electrome data with ongoing biological research, developing predictive models for clinical use, implementing these insights in diagnostic and therapeutic technologies, and expanding the application to more complex organismal studies. This project is pivotal in bridging the gap between computational bioelectric data and real-world biological and clinical applications.
 
 Together, these projects in Phase 2 represent a critical transition from foundational research to system-level integration and application. The emphasis is on refining and expanding the capabilities developed in Phase 1, ensuring that the research not only contributes to scientific knowledge but also leads to practical, impactful applications in medicine and biology.
 
@@ -547,11 +547,21 @@ The benchmarks listed below are crucial milestones for assessing the progress an
 *Table 1: Performance Criteria/Benchmarks for the Bioelectric Phenomena Research Program*
 
 ## XI. Conclusions
-The research program laid out in this roadmap represents a pioneering effort to unravel and manipulate the complex bioelectric phenomena underlying biological processes, particularly aging. The integration of advanced computational models, innovative bioelectric modulation techniques, and the development of cutting-edge hardware for CRUD operations on an organism's electrome, sets the stage for transformative breakthroughs in biomedical research.
+The research program laid out in this roadmap represents an effort to unravel and manipulate the complex bioelectric phenomena underlying biological processes, particularly aging. The integration of advanced computational models, innovative bioelectric modulation techniques, and the development of cutting-edge hardware for CRUD operations on an organism's electrome, sets the stage for transformative breakthroughs in biomedical research.
 
 The program is designed not to replace existing biological research tools but to complement and extend them into realms currently unexplored or underutilized. By focusing on dynamic systems models of aging, lifespan studies in invertebrate and vertebrate models, and the development of non-invasive bioelectric intervention technologies, we aim to gain deeper insights into the aging process and develop novel therapeutic strategies for age-related diseases.
 
-As we move forward, continuous community engagement, feedback, and collaboration will be essential for refining our approach and achieving our ambitious goals. We invite researchers, clinicians, and technologists to join us in this exciting journey, contributing their expertise and insights to help bring these innovative concepts to fruition. Together, we stand at the threshold of a new era in bioelectric research, poised to unlock the mysteries of life's electric essence.
+As we move forward, continuous community engagement, feedback, and collaboration will be essential for refining our approach and achieving our ambitious goals. We invite researchers, clinicians, and technologists to join us in this exciting journey, contributing their expertise and insights to help bring these innovative concepts to fruition. 
+
+---
+
+*The format for this reseach roadmap was adapted from similar programs featured in [Speculative Technologies's library](https://spec.tech/library).*
+
+*This roadmap is a living document. Please [reach out to us](mailto:info@aion.bio) if you are opinionated about these ideas, have a desire to get involved or think of ways to make it happen.*
+
+*Thank you.*
+
+*- Benjamin Anderson*
 
 [^1]: Chernet B, Levin M. Endogenous Voltage Potentials and the Microenvironment: Bioelectric Signals that Reveal, Induce and Normalize Cancer. J Clin Exp Oncol. 2013;Suppl 1:S1-002. doi: 10.4172/2324-9110.S1-002. PMID: 25525610; PMCID: PMC4267524.
 [^2]: Durant F, Morokuma J, Fields C, Williams K, Adams DS, Levin M. Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients. Biophys J. 2017 May 23;112(10):2231-2243. doi: 10.1016/j.bpj.2017.04.011. PMID: 28538159; PMCID: PMC5443973.
