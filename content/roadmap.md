@@ -236,7 +236,7 @@ This extensive research program spans three phases, envisioned to unfold over ap
 
 In preparation for phase one, the selection of performers - be it academic researchers, government entities, startups, or others - will be conducted. This phase will involve establishing research agreements and recruiting qualified performers, some of whom may not currently be within Aion's network. Timelines for each phase's commencement will depend on these logistical arrangements. A key aspect of this program is fostering collaboration among researchers working on different projects, ensuring that all components synergize effectively to achieve the overarching objectives of the program.
 
-### A. PHASE 1: Yield and Proof-of-Concept Projects {#phase-1}
+### A. PHASE 1: Proof-of-Concept Projects {#phase-1}
 Phase 1 of our research program is dedicated to establishing foundational technologies and methodologies that will enable significant advancements in our understanding and manipulation of bioelectric phenomena. This phase includes three key projects:
 
 *i. Project 1A. Optimizing iPSC Generation with Integrated Computational and Chemical Methodologies*
@@ -317,7 +317,7 @@ In this project, we aim to address the computational challenges associated with 
     - **Objective**: Develop methods to condense massive electrome data sets into more manageable sizes without significant loss of critical information.
     - **Approach**: Explore advanced data compression algorithms that can efficiently reduce the volume of electrome data. This may involve innovative techniques in signal processing, data summarization, and feature extraction.
     - **Outcome**: Achieve a balance between data comprehensiveness and computational manageability, enabling more effective use of electrome data within the broader goals of our project.
-2.  *Integration of Causal Emergence for Macro-scale Data Representation**:
+2.  *Integration of Causal Emergence for Macro-scale Data Representation*:
     - **Objective**: Investigate the application of causal emergence theory as a framework for creating macro-scale representations of electrome data.
     - **Approach**: Develop algorithms that identify causally relevant patterns at larger scales, potentially simplifying the complexity of the data without losing its essential predictive and explanatory power.
     - **Outcome**: Facilitate a more intuitive understanding of the electrome data, highlighting key bioelectric interactions and phenomena that are crucial for our research objectives.
@@ -350,7 +350,7 @@ This project will aim to demonstrate a viable proof-of-concept that controlled e
     - Engage with specialists in electromagnetic field technology for insights into optimizing hardware design and application.
 By achieving these objectives, this project will provide critical insights into the potential of exogenous electromagnetic interventions as a novel method for inducing controlled biological changes. This project not only contributes to our understanding of bioelectric phenomena but also opens up new avenues for research in developmental biology, regenerative medicine, and beyond.
 
-### B. PHASE 2: **System Integration** Projects {#phase-2}
+### B. PHASE 2: System Integration Projects {#phase-2}
 Phase 2 of our research program is centered on the development and refinement of integrated systems, building upon the foundational successes of Phase 1. This phase aims to evolve our proof-of-concept results into minimal viable systems and then iteratively enhance these systems to meet and exceed the program's performance goals. The focus here shifts from initial discovery and development to the integration and optimization of systems for broader applicability and impact. Key projects in this phase include:
 
 *i. Project 2A. Generalization & Precision of iPSC Generation from Bioelectric Modulation*
