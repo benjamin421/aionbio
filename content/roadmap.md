@@ -236,7 +236,7 @@ This extensive research program spans three phases, envisioned to unfold over ap
 
 In preparation for phase one, the selection of performers - be it academic researchers, government entities, startups, or others - will be conducted. This phase will involve establishing research agreements and recruiting qualified performers, some of whom may not currently be within Aion's network. Timelines for each phase's commencement will depend on these logistical arrangements. A key aspect of this program is fostering collaboration among researchers working on different projects, ensuring that all components synergize effectively to achieve the overarching objectives of the program.
 
-### A. PHASE 1: Yield and Proof-of-Concept Projects
+### A. PHASE 1: Yield and Proof-of-Concept Projects {#phase-1}
 Phase 1 of our research program is dedicated to establishing foundational technologies and methodologies that will enable significant advancements in our understanding and manipulation of bioelectric phenomena. This phase includes three key projects:
 
 *i. Project 1A. Optimizing iPSC Generation with Integrated Computational and Chemical Methodologies*
@@ -257,7 +257,7 @@ Phase 1 of our research program is dedicated to establishing foundational techno
 
 Each project within Phase 1 is designed to tackle specific challenges and create opportunities for breakthroughs in bioelectric research, setting the stage for more advanced phases of our research roadmap.
 
-#### i. Project 1A. Optimizing iPSC Generation with Integrated Computational and Chemical Methodologies
+#### i. Project 1A. Optimizing iPSC Generation with Integrated Computational and Chemical Methodologies {#project-1a}
 
 This project aims to revolutionize the field of induced pluripotent stem cell (iPSC) production by integrating advanced computational feedback with innovative chemical reprogramming techniques. Key objectives and milestones are as follows:
 
@@ -279,7 +279,7 @@ This project aims to revolutionize the field of induced pluripotent stem cell (i
 
 This project is fundamental to the overarching goal of enhancing iPSC yield and quality through innovative and interdisciplinary approaches. The success of this project will lay the groundwork for further advancements in stem cell research and regenerative medicine.
 
-#### ii. Project 1B. Design and preliminary testing of Deep Tissue Read Hardware
+#### ii. Project 1B. Design and preliminary testing of Deep Tissue Read Hardware {#project-1b}
 This project is needed to create a novel technology to acquire deep tissue physiological data. The following design criteria must be considered:
 
 1.  *Depth of Penetration and Resolution*:
@@ -310,7 +310,7 @@ The successful design and preliminary testing of deep tissue read hardware accor
 
 This particular project for this stage of the program should be centered on design without fully testing performance of the building blocks. However, there must be a compelling case for why a given design will be able to meet the above criteria for success and experimental demos showing this is strongly encouraged if possible.
 
-#### iii. Project 1C. Advanced Computational Strategies for Electrome Data Management
+#### iii. Project 1C. Advanced Computational Strategies for Electrome Data Management {#project-1c}
 In this project, we aim to address the computational challenges associated with the processing and interpretation of comprehensive electrome data sets. As we anticipate the acquisition of extensive whole organism electrome data – encompassing all ionic currents across cellular and organismal levels – we recognize the need for advanced computational solutions to effectively manage and utilize this wealth of information. This project will focus on two primary objectives:
 
 1.  *Data Compression and Efficient Processing*:
@@ -327,7 +327,7 @@ In this project, we aim to address the computational challenges associated with 
     - **Outcome**: Provide a toolset for researchers to quickly assess and interpret large volumes of electrome data, aiding in decision-making and hypothesis testing.
 By undertaking these objectives, Project 1C aims to develop a robust computational framework capable of handling the complexities of whole organism electrome data. This framework will not only support our current research endeavors but also lay the groundwork for future advancements in the field of bioelectric research.
 
-#### iv. Project 1D. Exogenous Interventions to Promote Effective Model Organism Changes
+#### iv. Project 1D. Exogenous Interventions to Promote Effective Model Organism Changes {#project-1d}
 This project will aim to demonstrate a viable proof-of-concept that controlled exogenous electromagnetic interventions can induce specific biological changes in model organisms, such as planaria. This project is inspired by studies, like those from Michael Levin's lab, showing the induction of a two-headed planaria phenotype through ion channel modulation. Our goal is to replicate and expand upon such findings using entirely exogenous means, such as targeted electromagnetic waves, to achieve similar or more complex phenotypic changes. The key objectives and considerations for this project include:
 
 1. *Replication and Expansion of Previous Findings*:
@@ -350,7 +350,7 @@ This project will aim to demonstrate a viable proof-of-concept that controlled e
     - Engage with specialists in electromagnetic field technology for insights into optimizing hardware design and application.
 By achieving these objectives, this project will provide critical insights into the potential of exogenous electromagnetic interventions as a novel method for inducing controlled biological changes. This project not only contributes to our understanding of bioelectric phenomena but also opens up new avenues for research in developmental biology, regenerative medicine, and beyond.
 
-### B. PHASE 2: **System Integration** Projects 
+### B. PHASE 2: **System Integration** Projects {#phase-2}
 Phase 2 of our research program is centered on the development and refinement of integrated systems, building upon the foundational successes of Phase 1. This phase aims to evolve our proof-of-concept results into minimal viable systems and then iteratively enhance these systems to meet and exceed the program's performance goals. The focus here shifts from initial discovery and development to the integration and optimization of systems for broader applicability and impact. Key projects in this phase include:
 
 *i. Project 2A. Generalization & Precision of iPSC Generation from Bioelectric Modulation*
@@ -367,8 +367,8 @@ Phase 2 of our research program is centered on the development and refinement of
 
 Together, these projects in Phase 2 represent a critical transition from foundational research to system-level integration and application. The emphasis is on refining and expanding the capabilities developed in Phase 1, ensuring that the research not only contributes to scientific knowledge but also leads to practical, impactful applications in medicine and biology.
 
-#### i. Project 2A. Generalization & Precision of iPSC Generation from Bioelectric Modulation
-Project 2A aims to build upon the findings of Project 1A, extending the scope of iPSC generation to a broader range of cell types and implementing strategies for partial reprogramming through bioelectric interventions. This project is divided into two main objectives:
+#### i. Project 2A. Generalization & Precision of iPSC Generation from Bioelectric Modulation {#project-2a}
+Project 2A aims to build upon the findings of [Project 1A](#project-1a), extending the scope of iPSC generation to a broader range of cell types and implementing strategies for partial reprogramming through bioelectric interventions. This project is divided into two main objectives:
 1. *Generalization Across Cell Types*:
     - **Objective**: Extend the chemical reprogramming methods developed in Project 1A to a wider array of cell types, including but not limited to fibroblasts, neurons, and bone cells.
     - **Approach**: Investigate the universal applicability of the reprogramming principles discovered in Project 1A, aiming to establish generalizable protocols that are effective across different cell types.
@@ -380,8 +380,8 @@ Project 2A aims to build upon the findings of Project 1A, extending the scope of
 
 Project 2A is critical in broadening the impact of iPSC technology and bioelectric modulation techniques. By achieving these objectives, the project not only contributes to the field of stem cell research but also enhances our understanding of cellular aging processes. The development of partial reprogramming strategies holds the promise of groundbreaking applications in age-related diseases and tissue regeneration.
 
-#### ii. Project 2B. Invertebrate Model Lifespan Study
-Project 2B seeks to integrate and expand upon the insights gained from Projects 1A, 1D, and 2A, focusing on conducting a comprehensive lifespan study using invertebrate models, such as C. elegans. This project aims to explore the impact of bioelectric modulation and chemical reprogramming techniques on the aging process in these model organisms. The primary objectives and approaches of this project are as follows:
+#### ii. Project 2B. Invertebrate Model Lifespan Study {#project-2b}
+Project 2B seeks to integrate and expand upon the insights gained from Projects [1A](#project-1a), [1D](#project-1d), and [2A](#project-2a), focusing on conducting a comprehensive lifespan study using invertebrate models, such as C. elegans. This project aims to explore the impact of bioelectric modulation and chemical reprogramming techniques on the aging process in these model organisms. The primary objectives and approaches of this project are as follows:
 
 1. *Selection of Invertebrate Model*:
     - **Objective**: Identify and select an appropriate invertebrate model, such as C. elegans, known for its well-characterized genetics and lifespan, making it ideal for aging studies.
@@ -400,8 +400,8 @@ Project 2B seeks to integrate and expand upon the insights gained from Projects 
     - **Approach**: Extrapolate the results to form hypotheses about similar interventions in more complex organisms, paving the way for future research.
 Project 2B is an essential component of our research program, bridging the gap between cellular-level interventions and organismal outcomes. By exploring the effects of bioelectric and chemical reprogramming on invertebrate lifespan, this project will contribute valuable knowledge to the fields of aging research, regenerative medicine, and bioelectric science.
 
-#### iii. Project 2C. Rodent Model Deep Tissue Bioelectric Imaging
-Project 2C aims to leverage the advancements made in Projects 1B (Deep Tissue Read Hardware) and 1C (Advanced Computational Strategies for Electrome Data Management) to implement a minimum viable prototype (MVP) for deep tissue bioelectric imaging in rodent models. This project focuses on exploring and validating methods to capture and analyze the deep tissue electrome of rodents, a crucial step in understanding complex bioelectric phenomena in mammalian systems. The project will explore two potential approaches based on the outcomes of earlier projects:
+#### iii. Project 2C. Rodent Model Deep Tissue Bioelectric Imaging {#project-2c}
+Project 2C aims to leverage the advancements made in [Projects 1B](#project-1b) (Deep Tissue Read Hardware) and [1C](#project-1c) (Advanced Computational Strategies for Electrome Data Management) to implement a minimum viable prototype (MVP) for deep tissue bioelectric imaging in rodent models. This project focuses on exploring and validating methods to capture and analyze the deep tissue electrome of rodents, a crucial step in understanding complex bioelectric phenomena in mammalian systems. The project will explore two potential approaches based on the outcomes of earlier projects:
 
 1. *Non-Invasive Deep Tissue Imaging*:
     - **Objective**: Implement a non-invasive approach to deep tissue bioelectric imaging using advanced imaging technologies.
@@ -414,8 +414,8 @@ Project 2C aims to leverage the advancements made in Projects 1B (Deep Tissue Re
 
 Both approaches in Project 2C are designed to push the boundaries of current bioelectric imaging capabilities in mammalian models. The project will involve rigorous testing and validation of these methodologies in rodent models, setting the stage for potential applications in larger and more complex organisms. Success in this project would mark a significant advancement in our ability to understand and manipulate bioelectric signals in deep tissues, contributing to the broader goals of the research program in understanding complex bioelectric interactions and their implications in health and disease.
 
-#### Project 2D: Advanced Bioelectric Data Integration and Application
-Building on the foundation laid by Project 1C, the next phase will focus on advancing the integration and application of the computational strategies developed for electrome data management. This phase will aim to translate the computational framework into practical, impactful applications across various biological and medical fields. The key objectives for this follow-on phase include:
+#### Project 2D: Advanced Bioelectric Data Integration and Application {#project-2d}
+Building on the foundation laid by [Project 1C](#project-1c), the next phase will focus on advancing the integration and application of the computational strategies developed for electrome data management. This phase will aim to translate the computational framework into practical, impactful applications across various biological and medical fields. The key objectives for this follow-on phase include:
 
 1. *Advanced Integration of Electrome Data with Biological Research*:
     - **Objective**: Seamlessly integrate the processed electrome data with ongoing biological research, particularly in areas such as developmental biology, regenerative medicine, and neuroscience.
@@ -435,7 +435,7 @@ Building on the foundation laid by Project 1C, the next phase will focus on adva
     - **Outcome**: Gain deeper insights into human bioelectric phenomena, paving the way for advanced biomedical research and applications.
 This follow-on phase will transform the computational achievements of Project 1C into tangible benefits for both scientific research and clinical practice. By integrating advanced computational strategies with practical applications, this phase aims to pioneer a new frontier in bioelectric research, significantly impacting our understanding and manipulation of biological systems at various scales.
 
-### C. PHASE 3: Advanced Integration and Application Projects
+### C. PHASE 3: Advanced Integration and Application Projects {#phase-3}
 Phase 3 of our research program is designed to advance the integration and application of our foundational research into more complex biological systems and practical medical applications. This phase involves three pivotal projects:
 
 *i. Project 3A. Dynamical Systems Model of Aging in the Electrome*
@@ -444,13 +444,13 @@ Phase 3 of our research program is designed to advance the integration and appli
 *ii. Project 3B. Hardware for Exogenous, Whole Organism Interventions*
 - Project 3B seeks to develop a device capable of performing CRUD operations on the electrome of whole organisms. This technology aims to externally manipulate and monitor bioelectric patterns, offering a novel degree of control over biological processes. The project includes developing hardware with full-spectrum CRUD capabilities, ensuring non-invasive and targeted intervention, integrating the hardware with advanced computational systems, and ensuring scalability and flexibility. Ethical and regulatory compliance is a paramount objective. This project is set to revolutionize bioelectric research, providing a tool for manipulating and monitoring the electrome with precision.
 
-*iii. Project 3A. Vertebrate Model Lifespan Studies*
-- Parallel to Projects 3A and 3B, this project aims to extend lifespan and improve aging-related phenotypes in vertebrate models. Integrating results from Projects 2A, 2B, and 2C, this project will apply electrome interventions to vertebrate models, assessing the impact on aging processes. The project's goals include developing electrome interventions, conducting comprehensive lifespan studies, preparing for scaling to non-human primate models, and laying the groundwork for clinical translation. The successful completion of this project in vertebrate models would mark a significant milestone, potentially leading to applications in aging research and regenerative medicine.
+*iii. Project 3C. Vertebrate Model Lifespan Studies*
+- Parallel to Projects [3A](#project-3a) and [3B](#project-3b), this project aims to extend lifespan and improve aging-related phenotypes in vertebrate models. Integrating results from Projects [2A](#project-2a), [2B](#project-3a), and [2C](#project-2c), this project will apply electrome interventions to vertebrate models, assessing the impact on aging processes. The project's goals include developing electrome interventions, conducting comprehensive lifespan studies, preparing for scaling to non-human primate models, and laying the groundwork for clinical translation. The successful completion of this project in vertebrate models would mark a significant milestone, potentially leading to applications in aging research and regenerative medicine.
 
 Phase 3 represents the culmination of our research efforts, where advanced theoretical models and innovative technologies are applied to complex biological systems. The integration of these projects paves the way for significant advancements in understanding and manipulating bioelectric phenomena, with broad implications for aging research, regenerative medicine, and beyond. This phase is crucial for translating our research into practical applications that can extend healthy lifespans and combat age-related diseases.
 
-#### i. Project 3A. Dynamical Systems Model of Aging in the Electrome
-Project 3A seeks to harness the principles of control theory and dynamical systems to analyze and manipulate the aging process within the electrome. This project will utilize the extensive electrome data and computational advancements from Project 2D, aiming to develop a model that can guide biological systems towards a rejuvenated, de-aged state. The key objectives and strategies for this project include:
+#### i. Project 3A. Dynamical Systems Model of Aging in the Electrome {#project-3a}
+Project 3A seeks to harness the principles of control theory and dynamical systems to analyze and manipulate the aging process within the electrome. This project will utilize the extensive electrome data and computational advancements from [Project 2D](#project-2d), aiming to develop a model that can guide biological systems towards a rejuvenated, de-aged state. The key objectives and strategies for this project include:
 
 1. *Development of a Dynamical Systems Model*:
     - **Objective**: Create a sophisticated model that represents the aging process within the electrome as a dynamical system.
@@ -475,8 +475,8 @@ Project 3A seeks to harness the principles of control theory and dynamical syste
 
 Project 3A represents a pioneering effort to apply control theory and dynamical systems modeling to the field of bioelectric research, specifically targeting the aging process. By developing a model that can direct the electrome towards a de-aged state and testing these strategies in biological systems, this project has the potential to significantly advance our understanding and control of the aging process at the bioelectric level.
 
-#### ii. Project 3B. Hardware for Exogenous, whole Organism Interventions that perform CRUD operations on a organisms electrome
-Project 3B, as an extension of the foundational work done in Project 1D and incorporating insights from all Phase 2 projects, aims to develop a sophisticated hardware device capable of executing CRUD (Create, Read, Update, Delete) operations on the electrome of whole organisms. This project involves the creation of a technology that can externally manipulate and monitor bioelectric patterns at a system-wide level, providing an unprecedented degree of control over biological processes. The key objectives and design criteria for this project are:
+#### ii. Project 3B. Hardware for Exogenous, whole Organism Interventions that perform CRUD operations on a organisms electrome {#project-3b}
+Project 3B, as an extension of the foundational work done in [Project 1D](#project-1d) and incorporating insights from all [Phase 2](#phase-2) projects, aims to develop a sophisticated hardware device capable of executing CRUD (Create, Read, Update, Delete) operations on the electrome of whole organisms. This project involves the creation of a technology that can externally manipulate and monitor bioelectric patterns at a system-wide level, providing an unprecedented degree of control over biological processes. The key objectives and design criteria for this project are:
 
 1. *Full-Spectrum CRUD Capabilities*:
     - **Objective**: Develop hardware that can perform all CRUD operations—creating, reading, updating, and deleting bioelectric signals within an organism.
@@ -500,8 +500,8 @@ Project 3B, as an extension of the foundational work done in Project 1D and inco
     - **Outcome**: A technology that is not only innovative but also ethically responsible and regulatory compliant.
 Project 3B is poised to be a groundbreaking venture in the field of bioelectric research, offering a tool that can manipulate and monitor the electrome of whole organisms with precision and control. This project represents a significant leap forward in our ability to understand and influence biological systems, with potential applications spanning from fundamental research to advanced therapeutic interventions.
 
-#### iii. Project 3A. Vertibrate Model Lifespan Studies
-Project 3A is a critical venture aimed at extending lifespan and improving aging-related phenotypes in vertebrate models, drawing upon the insights and methodologies developed in Projects 2A, 2B, and 2C. The primary goal is to conduct comprehensive lifespan studies using vertebrate models, applying targeted electrome interventions to modulate aging processes. Running parallel to Projects 3A and 3B, this project serves as a vital stepping stone towards scaling up interventions to non-human primate models, potentially leading to breakthroughs in aging research. Key objectives and strategies include:
+#### iii. Project 3C. Vertibrate Model Lifespan Studies
+Project 3C is a critical venture aimed at extending lifespan and improving aging-related phenotypes in vertebrate models, drawing upon the insights and methodologies developed in Projects [2A](#project-2a), [2B](#project-2b), and [2C](#project-2c). The primary goal is to conduct comprehensive lifespan studies using vertebrate models, applying targeted electrome interventions to modulate aging processes. Running parallel to Projects 3A and 3B, this project serves as a vital stepping stone towards scaling up interventions to non-human primate models, potentially leading to breakthroughs in aging research. Key objectives and strategies include:
 
 1. *Electrome Intervention Development*:
     - **Objective**: Develop and apply bioelectric modulation strategies to positively influence aging processes in vertebrate models.
@@ -524,7 +524,7 @@ Project 3A is a critical venture aimed at extending lifespan and improving aging
     - **Approach**: Maintain a collaborative and integrated research approach, sharing insights and data across Projects 3A (Dynamical Systems Model of Aging in the Electrome) and 3B (Hardware for Exogenous Whole Organism Interventions).
     - **Outcome**: Enhanced synergy across projects, leading to more robust and comprehensive advancements in the field of bioelectric aging research.
 
-The successful completion of Project 3A in vertebrate models would represent a major milestone in the overarching research program, setting the stage for groundbreaking applications in aging research and regenerative medicine. The transition from vertebrate models to non-human primates and eventually to human clinical applications signifies the project's ultimate goal of extending healthy lifespan and combating aging-related diseases.
+The successful completion of Project 3C in vertebrate models would represent a major milestone in the overarching research program, setting the stage for groundbreaking applications in aging research and regenerative medicine. The transition from vertebrate models to non-human primates and eventually to human clinical applications signifies the project's ultimate goal of extending healthy lifespan and combating aging-related diseases.
 
 ## Benchmarks for Each Phase of the Program
 
