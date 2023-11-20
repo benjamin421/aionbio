@@ -219,12 +219,12 @@ A significant risk in the program lies in the lack of FDA precedent for therapie
 ![Image of dependency chart for research roadmap](/img/dependencies.png)
 *Figure 2: A dependency diagram for the work in this program to give a sense of potential paths. [Link to a detailed living document.](https://www.figma.com/file/2LWv2tTrdUdfbNWPaCmccR/Aion-Research-Roadmap?type=whiteboard&node-id=0%3A1&t=VtPq32Rhzn1ovBRW-1)*
 
-This extensive research program spans three phases, envisioned to unfold over approximately 5 years and estimated to cost around {X} dollars, as depicted in Figure X. Each phase comprises a series of interconnected projects, designed to build upon each other, laying the groundwork for subsequent phases. The specific criteria each project must meet are detailed in their respective descriptions and summarized in the [benchmark table](#benchmark-table).
+This extensive research program spans three phases, envisioned to unfold over approximately 5 years as depicted in Figure 3. Each phase comprises a series of interconnected projects, designed to build upon each other, laying the groundwork for subsequent phases. The specific criteria each project must meet are detailed in their respective descriptions and summarized in the [benchmark table](#benchmark-table).
 
 In preparation for phase one, the selection of performers - be it academic researchers, government entities, startups, or others - will be conducted. This phase will involve establishing research agreements and recruiting qualified performers, some of whom may not currently be within Aion's network. Timelines for each phase's commencement will depend on these logistical arrangements. A key aspect of this program is fostering collaboration among researchers working on different projects, ensuring that all components synergize effectively to achieve the overarching objectives of the program.
 
-![Image of program projects on a timeline](/img/program.png)
-*Figure 3: Different phases and projects in the program.*
+![Image of program projects on a timeline](/img/program.png) {#figure-3}
+*Figure 3: Different phases and projects in the program.* 
 
 ### A. PHASE 1: Proof-of-Concept Projects {#phase-1}
 Phase 1 of our research program is dedicated to establishing foundational technologies and methodologies that will enable significant advancements in our understanding and manipulation of bioelectric phenomena. This phase includes three key projects:
