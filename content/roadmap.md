@@ -216,12 +216,15 @@ A significant risk in the program lies in the lack of FDA precedent for therapie
 
 ## IX. How is the program structured? How long will it take and how much will it cost?
 
-![Image of dependency chart for research roadmap](/img/dependency.png)
-*Figure 1: A dependency diagram for the work in this program to give a sense of potential paths. [Link to a detailed living document.](https://www.figma.com/file/2LWv2tTrdUdfbNWPaCmccR/Aion-Research-Roadmap?type=whiteboard&node-id=0%3A1&t=VtPq32Rhzn1ovBRW-1)*
+![Image of dependency chart for research roadmap](/img/dependencies.png)
+*Figure 2: A dependency diagram for the work in this program to give a sense of potential paths. [Link to a detailed living document.](https://www.figma.com/file/2LWv2tTrdUdfbNWPaCmccR/Aion-Research-Roadmap?type=whiteboard&node-id=0%3A1&t=VtPq32Rhzn1ovBRW-1)*
 
-This extensive research program spans three phases, envisioned to unfold over approximately 5 years and estimated to cost around {X} dollars, as depicted in Figure X. Each phase comprises a series of interconnected projects, designed to build upon each other, laying the groundwork for subsequent phases. The specific criteria each project must meet are detailed in their respective descriptions and summarized in the benchmark table.
+This extensive research program spans three phases, envisioned to unfold over approximately 5 years and estimated to cost around {X} dollars, as depicted in Figure X. Each phase comprises a series of interconnected projects, designed to build upon each other, laying the groundwork for subsequent phases. The specific criteria each project must meet are detailed in their respective descriptions and summarized in the [benchmark table](#benchmark-table).
 
 In preparation for phase one, the selection of performers - be it academic researchers, government entities, startups, or others - will be conducted. This phase will involve establishing research agreements and recruiting qualified performers, some of whom may not currently be within Aion's network. Timelines for each phase's commencement will depend on these logistical arrangements. A key aspect of this program is fostering collaboration among researchers working on different projects, ensuring that all components synergize effectively to achieve the overarching objectives of the program.
+
+![Image of program projects on a timeline](/img/program.png)
+*Figure 3: Different phases and projects in the program.*
 
 ### A. PHASE 1: Proof-of-Concept Projects {#phase-1}
 Phase 1 of our research program is dedicated to establishing foundational technologies and methodologies that will enable significant advancements in our understanding and manipulation of bioelectric phenomena. This phase includes three key projects:
@@ -340,7 +343,7 @@ By achieving these objectives, this project will provide critical insights into 
 ### B. PHASE 2: System Integration Projects {#phase-2}
 Phase 2 of our research program is centered on the development and refinement of integrated systems, building upon the foundational successes of Phase 1. This phase aims to evolve our proof-of-concept results into minimal viable systems and then iteratively enhance these systems to meet and exceed the program's performance goals. The focus here shifts from initial discovery and development to the integration and optimization of systems for broader applicability and impact. Key projects in this phase include:
 
-*i. Project 2A. Generalization & Precision of iPSC Generation from Bioelectric Modulation*
+*i. Project 2A. Generalization of iPSC Findings and Precision Reprogramming from Bioelectric Modulation*
 - Building on [Project 1A](#project-1a)'s advancements, Project 2A extends iPSC generation techniques to a wider variety of cell types and explores precision in partial reprogramming. This project seeks to standardize bioelectric and chemical reprogramming across different cell types and develop targeted strategies for cellular age reversal. The integration of these techniques into broader cell types signifies a major step in customizable and versatile regenerative medicine applications.
 
 *ii. Project 2B. Invertebrate Model Lifespan Study*
@@ -354,7 +357,7 @@ Phase 2 of our research program is centered on the development and refinement of
 
 Together, these projects in Phase 2 represent a critical transition from foundational research to system-level integration and application. The emphasis is on refining and expanding the capabilities developed in Phase 1, ensuring that the research not only contributes to scientific knowledge but also leads to practical, impactful applications in medicine and biology.
 
-#### i. Project 2A. Generalization & Precision of iPSC Generation from Bioelectric Modulation {#project-2a}
+#### i. Project 2A. Generalization of iPSC Findings and Precision Reprogramming from Bioelectric Modulation {#project-2a}
 Project 2A aims to build upon the findings of [Project 1A](#project-1a), extending the scope of iPSC generation to a broader range of cell types and implementing strategies for partial reprogramming through bioelectric interventions. This project is divided into two main objectives:
 1. *Generalization Across Cell Types*:
     - **Objective**: Extend the chemical reprogramming methods developed in Project 1A to a wider array of cell types, including but not limited to fibroblasts, neurons, and bone cells.
@@ -517,7 +520,7 @@ The successful completion of Project 3C in vertebrate models would represent a m
 
 The benchmarks listed below are crucial milestones for assessing the progress and success of each project within the program. These benchmarks are cross-referenced to multiple projects, indicating instances where projects may overlap or require collaborative efforts. It is important to note that these benchmarks are based on current assumptions and projections and may be subject to revisions as the program progresses and new insights are gained.
 
-### Benchmarks Overview:
+### Benchmarks Overview: {#benchmark-table}
 | Description                                        | Benchmark                                 | Project |
 | -------------------------------------------------- | ----------------------------------------- | ------- |
 | iPSC Yield Improvement from Fibroblasts            | 10x increase in yeild over current methods          | 1A      |
