@@ -56,28 +56,6 @@ In the research program, we are taking a novel approach to biological interventi
   - **Chemical-Based Cellular Reprogramming**: This benchmark focuses on reprogramming various cell types, such as fibroblasts, neurons, and bone cells, using bioelectric cues informed by chemical strategies. Unlike traditional methods relying on transcription factors, our approach utilizes chemical interventions, guided by real-time monitoring of intercellular signaling. The goal is to achieve a significant improvement in iPSC yield, marked by a standard deviation enhancement, by leveraging a tight feedback loop between bioelectric state monitoring and targeted chemical interventions.
 - **Advanced Electrome Mapping Technologies**: The objective is to achieve comprehensive electrome mapping across organisms of diverse complexity, ranging from simple invertibrate models to more complex organisms like mice and primates. We aim to enhance existing technologies such as patch clamps, multi-electrode arrays and voltage fluorescent dye tracking to develop new approaches. We plan to explore other opportunities to innovate such as by integrating upconversion nanoparticle techniques for deeper tissue visualization and employing AI algorithms to infer deep bioelectric patterns from surface-level epithelial data.
 - **Targeted Phenotypic Alterations via Electrome Modulation**: This benchmark involves inducing observable phenotypic changes in organisms through precise electrome modulation. We will explore two primary modulation mechanisms: (1) mRNA injections to modulate the capacity of specific signaling channels by altering ion channel and gap junction densities, and (2) the use of small molecules to regulate the opening or closing of these channels. Additionally, we will investigate non-invasive methods like external electromagnetic stimulation to induce exogenous bioelectric changes.
-### C. Importance of Coordinated Research and Interdisciplinary Collaboration
-**Framework for Interdisciplinary Collaboration**:
-- **Collaboration Mechanisms**:
-    - **Interdisciplinary Teams**: Forming dedicated teams combining experts from developmental biology, electrophysiology, bioengineering, and computer science. These teams will work on specific aspects of the project while maintaining a holistic view.
-    - **Regular Cross-disciplinary Meetings**: Implementing frequent meetings and workshops to facilitate open communication and idea exchange.
-    - **Joint Research Projects**: Encouraging projects that require the expertise of multiple disciplines, promoting a deeper understanding of the interconnected aspects of bioelectric phenomena.
-- **Information Sharing Protocols**:
-    - **Shared Digital Platforms**: Utilizing cloud-based platforms for data sharing and collaboration, ensuring all team members have access to the latest research and developments.
-    - **Standardized Data Formats**: Establishing common data formats and protocols for easy exchange and analysis of research findings.
-- **Integrated Research Approaches**:
-    - **Combining Experimental and Computational Work**: Integrating experimental research with computational modeling to enable more comprehensive analyses and predictions.
-    - **Holistic Study Designs**: Designing experiments and studies that incorporate inputs and hypotheses from various disciplines.
-**Integration with Industry and Academia**:
-- **Partnerships with Academic Institutions**:
-    - **Joint Research Initiatives**: Establishing partnerships with leading universities to combine academic research with practical applications.
-    - **Educational Programs and Internships**: Creating educational programs and internships to foster new talent and provide hands-on experience in interdisciplinary research.
-- **Collaboration with Industry Leaders**:
-    - **Technology Transfer and Commercialization**: Working with industry partners to translate research findings into marketable products and therapies.
-    - **Funding and Resource Sharing**: Leveraging industry resources for funding, technology, and expertise to enhance research capabilities.
-- **Contributions to Biological Interventions**:
-    - **Translational Research**: Ensuring that the collaborative efforts lead to practical solutions for real-world problems in health and medicine.
-    - **Innovation Ecosystem**: Creating an ecosystem where academic findings fuel industrial innovation, and vice versa, driving the field forward.
 
 This coordinated approach, emphasizing interdisciplinary collaboration and integration with academia and industry, is crucial for advancing the understanding and application of bioelectric phenomena in biology. Such a framework not only accelerates research progress but also ensures that the knowledge gained is effectively translated into meaningful, real-world applications.
 
@@ -119,14 +97,18 @@ The Bioelectric Code Initiative sets itself apart from conventional biological i
 **1. Advanced Control Through Bioelectric Modulation**:
 The most significant innovation in our approach is the modulation of bioelectric cues for a more effective influence on downstream biological processes. Unlike traditional methods focused on gene and protein modification, our approach targets the bioelectric networks, which hold the key to a vast array of cellular activities and systemic responses.
 
+![Image of bioelectric interventions influencing downstream transcriptional responses.](/img/upstream.png)
+
+*Figure 1: Intercellular signaling dependent transcription.[^1]*
+
 Past research has highlighted the significant potential of bioelectric modulation in transforming organism phenotypes, evident in the reprogramming of cell fate and inducing whole-organism morphological changes. This transformative effect is primarily achieved through the manipulation of ion channels and gap junctions, which play a vital role in maintaining bioelectric homeostasis in cells and tissues. For instance:
 
-*Reprogramming Cell Fate*: A study conducted by Chernet and Levin (2013) demonstrated the ability to convert melanoma cells into a benign state by altering their bioelectric status.[^1] This was achieved through the modulation of ion channels, leading to a significant reduction in tumor growth and metastasis.
+*Reprogramming Cell Fate*: A study conducted by Chernet and Levin (2013) demonstrated the ability to convert melanoma cells into a benign state by altering their bioelectric status.[^2] This was achieved through the modulation of ion channels, leading to a significant reduction in tumor growth and metastasis.
     
-*Morphological Changes in Organisms*: In other groundbreaking work it has been shown that bioelectric modulation could lead to the induction of a two headed phenotype in planaria by altering the distribution of specific ion channels, depolarizing blastemas[^2]. This study provided a clear example of how bioelectric cues could dictate complex tissue and organ regeneration. Other work in this same vein revealed how ion channel drug delivery via a wearable bioreactor could facilitate long-term limb regeneration and functional recovery in adult Xenopus laevis, further revealing how the use of bioelectric interventions could lead to drastic but effective outcomes[^3].
+*Morphological Changes in Organisms*: In other groundbreaking work it has been shown that bioelectric modulation could lead to the induction of a two headed phenotype in planaria by altering the distribution of specific ion channels, depolarizing blastemas[^3]. This study provided a clear example of how bioelectric cues could dictate complex tissue and organ regeneration. Other work in this same vein revealed how ion channel drug delivery via a wearable bioreactor could facilitate long-term limb regeneration and functional recovery in adult Xenopus laevis, further revealing how the use of bioelectric interventions could lead to drastic but effective outcomes[^4].
     
     
-In a final example, [Levin's lab](https://drmichaellevin.org/) successfully induced the formation of ectopic eyes in Xenopus frog embryos through targeted bioelectric modulation. This was accomplished by manipulating the bioelectric gradients across the body of the tadpole, which guided the development of eye structures in non-native locations.[^4]
+In a final example, [Levin's lab](https://drmichaellevin.org/) successfully induced the formation of ectopic eyes in Xenopus frog embryos through targeted bioelectric modulation. This was accomplished by manipulating the bioelectric gradients across the body of the tadpole, which guided the development of eye structures in non-native locations.[^5]
 
 These examples showcase the remarkable capacity of bioelectric modulation to induce significant changes at both the cellular and organismal levels, offering a new paradigm for understanding and manipulating biological processes.
 
@@ -567,7 +549,8 @@ As we move forward, continuous community engagement, feedback, and collaboration
 
 *- Benjamin Anderson*
 
-[^1]: Chernet B, Levin M. Endogenous Voltage Potentials and the Microenvironment: Bioelectric Signals that Reveal, Induce and Normalize Cancer. J Clin Exp Oncol. 2013;Suppl 1:S1-002. doi: 10.4172/2324-9110.S1-002. PMID: 25525610; PMCID: PMC4267524.
-[^2]: Durant F, Morokuma J, Fields C, Williams K, Adams DS, Levin M. Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients. Biophys J. 2017 May 23;112(10):2231-2243. doi: 10.1016/j.bpj.2017.04.011. PMID: 28538159; PMCID: PMC5443973.
-[^3]: Nirosha J. Murugan et al. ,Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration and functional recovery in adult Xenopus laevis.Sci. Adv.8,eabj2164(2022).DOI:10.1126/sciadv.abj2164
-[^4]: Blackiston DJ, Levin M. Ectopic eyes outside the head in Xenopus tadpoles provide sensory data for light-mediated learning. J Exp Biol. 2013 Mar 15;216(Pt 6):1031-40. doi: 10.1242/jeb.074963. PMID: 23447666; PMCID: PMC3587383.
+[^1]: Benjamin Anderson. Bioelectricity: A Top-Down Control Model to Promote More Effective Aging Interventions. Bioelectricity. http://doi.org/10.1089/bioe.2023.0013
+[^2]: Chernet B, Levin M. Endogenous Voltage Potentials and the Microenvironment: Bioelectric Signals that Reveal, Induce and Normalize Cancer. J Clin Exp Oncol. 2013;Suppl 1:S1-002. doi: 10.4172/2324-9110.S1-002. PMID: 25525610; PMCID: PMC4267524.
+[^3]: Durant F, Morokuma J, Fields C, Williams K, Adams DS, Levin M. Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients. Biophys J. 2017 May 23;112(10):2231-2243. doi: 10.1016/j.bpj.2017.04.011. PMID: 28538159; PMCID: PMC5443973.
+[^4]: Nirosha J. Murugan et al. ,Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration and functional recovery in adult Xenopus laevis.Sci. Adv.8,eabj2164(2022).DOI:10.1126/sciadv.abj2164
+[^5]: Blackiston DJ, Levin M. Ectopic eyes outside the head in Xenopus tadpoles provide sensory data for light-mediated learning. J Exp Biol. 2013 Mar 15;216(Pt 6):1031-40. doi: 10.1242/jeb.074963. PMID: 23447666; PMCID: PMC3587383.
