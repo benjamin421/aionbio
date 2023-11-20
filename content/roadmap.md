@@ -233,6 +233,9 @@ A significant risk in the program lies in the lack of FDA precedent for therapie
 
 ## IX. How is the program structured? How long will it take and how much will it cost?
 
+![Image of dependency chart for research roadmap](/img/dependency.png)
+*Figure 1: A dependency diagram for the work in this program to give a sense of potential paths. [Link to a detailed living document.](https://www.figma.com/file/2LWv2tTrdUdfbNWPaCmccR/Aion-Research-Roadmap?type=whiteboard&node-id=0%3A1&t=VtPq32Rhzn1ovBRW-1)*
+
 This extensive research program spans three phases, envisioned to unfold over approximately 5 years and estimated to cost around {X} dollars, as depicted in Figure X. Each phase comprises a series of interconnected projects, designed to build upon each other, laying the groundwork for subsequent phases. The specific criteria each project must meet are detailed in their respective descriptions and summarized in the benchmark table.
 
 In preparation for phase one, the selection of performers - be it academic researchers, government entities, startups, or others - will be conducted. This phase will involve establishing research agreements and recruiting qualified performers, some of whom may not currently be within Aion's network. Timelines for each phase's commencement will depend on these logistical arrangements. A key aspect of this program is fostering collaboration among researchers working on different projects, ensuring that all components synergize effectively to achieve the overarching objectives of the program.
