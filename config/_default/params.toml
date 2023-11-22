@@ -26,6 +26,7 @@ colorScheme = "mycolors"
   showEdit = false
   editURL = "https://github.com/benjamin421/aionbio/tree/main/content/"
   editAppendPath = true
+  showTableOfContents = true
   showHeadingAnchors = true
   showPagination = true
   showReadingTime = true
