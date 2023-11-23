@@ -10,7 +10,7 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-A comprehensive overview of the research being pursued by Aion. | Last updated — November 17, 2023
+A comprehensive overview of the research being pursued by Aion | Last updated — November 17, 2023
 {{< /lead >}}
 
 ## I. Executive Summary
