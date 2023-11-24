@@ -67,7 +67,7 @@ The concept of targeting genes and proteins stems from a reductionist view of bi
 
 In clinical settings, the reliance on small molecule drugs is rooted in their ease of manufacture and the traditional pharmaceutical development model. These compounds typically interact with specific protein targets, aiming to modulate their activity to achieve a therapeutic effect. However, this approach often does not consider the multifaceted interactions that occur within biological systems. As a result, such interventions can be limited in their scope, failing to address the underlying complexity of many diseases.
 
-### V. Limitations and Challenges in Traditional Approaches
+### Limitations and Challenges in Traditional Approaches
 
 *Scientific Constraints*: A major scientific hurdle has been the unpredictability of outcomes in biological interventions due to the complex nature of living systems. Gene therapy exemplifies this challenge, with patients exhibiting highly varied responses to similar treatments. This variability is often rooted in factors such as genetic diversity, different cellular environments, and unique epigenetic landscapes. Similarly, in cancer therapy, two patients with the same cancer type might have vastly different responses to the same pharmacological treatment, influenced by variations in tumor microenvironments, genetic mutations, or immune responses. These cases underscore the necessity for personalized medical approaches and a deeper understanding of biological complexities to achieve consistent and reliable therapeutic outcomes.
 
@@ -223,7 +223,7 @@ This extensive research program spans three phases, envisioned to unfold over ap
 
 In preparation for phase one, the selection of performers - be it academic researchers, government entities, startups, or others - will be conducted. This phase will involve establishing research agreements and recruiting qualified performers, some of whom may not currently be within Aion's network. Timelines for each phase's commencement will depend on these logistical arrangements. A key aspect of this program is fostering collaboration among researchers working on different projects, ensuring that all components synergize effectively to achieve the overarching objectives of the program.
 
-![Image of program projects on a timeline](/img/program.png) {#figure-3}
+![Image of program projects on a timeline](/img/program.png)
 *Figure 3: Different phases and projects in the program.* 
 
 ### A. PHASE 1: Proof-of-Concept Projects {#phase-1}
@@ -404,7 +404,7 @@ Project 2C aims to leverage the advancements made in Projects [1B](#project-1b) 
 
 Both approaches in Project 2C are designed to push the boundaries of current bioelectric imaging capabilities in mammalian models. The project will involve rigorous testing and validation of these methodologies in rodent models, setting the stage for potential applications in larger and more complex organisms. Success in this project would mark a significant advancement in our ability to understand and manipulate bioelectric signals in deep tissues, contributing to the broader goals of the research program in understanding complex bioelectric interactions and their implications in health and disease.
 
-#### Project 2D: Advanced Bioelectric Data Integration and Application {#project-2d}
+#### iv. Project 2D: Advanced Bioelectric Data Integration and Application {#project-2d}
 Building on the foundation laid by [Project 1C](#project-1c), the next phase will focus on advancing the integration and application of the computational strategies developed for electrome data management. This phase will aim to translate the computational framework into practical, impactful applications across various biological and medical fields. The key objectives for this follow-on phase include:
 
 1. *Advanced Integration of Electrome Data with Biological Research*:
