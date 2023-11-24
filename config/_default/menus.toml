@@ -11,9 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Learn More"
+  name = "About"
   pageRef = "about"
   weight = 10
+
+[[main]]
+  name = "Roadmap"
+  pageRef = "roadmap"
+  weight = 20
 
 [[main]]
   name = "Contact"
