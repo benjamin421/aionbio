@@ -23,6 +23,7 @@ colorScheme = "mycolors"
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
+  showTableOfContents = true
   showEdit = false
   editURL = "https://github.com/benjamin421/aionbio/tree/main/content/"
   editAppendPath = true
