@@ -89,7 +89,7 @@ This project was conceived to address these myriad challenges. By focusing on no
 - A core objective of the program is to bridge the gaps in our current understanding by melding cutting-edge bioelectric research with tangible clinical applications. This fusion of research and practice is expected to lead to interventions that are both more predictable in their outcomes and scalable in their application.
 - Concentrating on the systemic modulation of bioelectric signals, the initiative holds the potential to transform fundamental biological research and clinical practices alike. This could pave the way for novel therapeutic approaches and a more profound comprehension of the intricate mechanisms underpinning biological systems.
 
-## VI. Technical Novelty and Success Potential of the Bioelectric Modulation Approach
+## V. Technical Novelty and Success Potential of the Bioelectric Modulation Approach
 
 ### A. What is Technically New in this Approach?
 This program sets itself apart from conventional biological intervention methods through several novel technical advancements:
@@ -149,7 +149,7 @@ In summary, the technical novelty of the program lies in its integration of cont
 
 In conclusion, the program represents a radical departure from traditional biological intervention methods. Its emphasis on bioelectric modulation, underpinned by recent scientific advancements and an increasing trend towards interdisciplinary collaboration, positions it as a promising new frontier in biological research and treatment. This initiative is poised to redefine our understanding and manipulation of biological systems, leading to a new era of precise, effective, and holistic interventions.
 
-## VII. Who cares? If we are successful, what difference will it make?
+## VI. Who cares? If we are successful, what difference will it make?
 ### A. Paradigm Shift in Biological Understanding and Intervention
 
 The success of our program would herald a monumental shift in our understanding and approach to biological systems, impacting both the academic and clinical realms:
@@ -193,7 +193,7 @@ The implications for clinicians are equally profound. With a deeper understandin
 
 In summary, the success of the program promises not just advancements in current scientific and medical practices, but a fundamental evolution in how we approach, understand, and interact with biological systems, heralding a new age of discovery and innovation.
 
-## VIII. What are the risks?
+## VII. What are the risks?
 ### A. Scalability of Bioelectric Modulation Techniques
 *1. Challenges in Scaling Bioelectric Interventions*: Scaling bioelectric modulation from controlled laboratory settings to clinical applications presents substantial challenges. One critical issue is ensuring that interventions that work effectively in small-scale models, such as cell cultures or simple organisms, retain their efficacy and safety when applied to more complex systems like humans. Bioelectric networks exhibit higher complexity in larger organisms, with more intricate interplays between various tissues and organs. This complexity increases the difficulty of accurately targeting and modulating specific bioelectric patterns without impacting adjacent systems. Additionally, systemic responses to bioelectric changes can vary significantly between different organism sizes and species, complicating the prediction and management of outcomes. Another challenge lies in the potential variability of bioelectric responses among individuals due to genetic, environmental, and lifestyle factors, necessitating highly personalized approaches. These issues underscore the need for extensive research and iterative development to adapt bioelectric interventions for broader, clinically relevant applications.
 
@@ -214,7 +214,7 @@ Securing acceptance and trust within the medical community for bioelectric modul
 3. *Lack of an FDA Precedent:*
 A significant risk in the program lies in the lack of FDA precedent for therapies developed through bioelectric modulation techniques. The FDA's rigorous approval process necessitates stringent compliance with [current good manufacturing practices (cGMP)](https://www.fda.gov/drugs/pharmaceutical-quality-resources/current-good-manufacturing-practice-cgmp-regulations), and the introduction of therapies based on entirely new principles like bioelectric modulation could face substantial regulatory challenges. These challenges might include establishing new protocols, proving efficacy and safety beyond conventional approaches, and addressing any unique ethical concerns. While daunting, this obstacle is not insurmountable, as evidenced by the successful incorporation of other innovative medical technologies into clinical practice. The initiative would benefit from a proactive approach to regulatory engagement, including early consultations with the FDA, to navigate these uncharted waters. This approach could help in developing a framework for regulatory compliance that aligns with the innovative nature of bioelectric modulation, potentially setting a precedent for future therapies in this field.
 
-## IX. How is the program structured? How long will it take and how much will it cost?
+## XIII. How is the program structured? How long will it take and how much will it cost?
 
 ![Image of dependency chart for research roadmap](/img/dependencies.png)
 *Figure 2: A dependency diagram for the work in this program to give a sense of potential paths. [Link to a detailed living document.](https://www.figma.com/file/2LWv2tTrdUdfbNWPaCmccR/Aion-Research-Roadmap?type=whiteboard&node-id=0%3A1&t=VtPq32Rhzn1ovBRW-1)*
@@ -516,7 +516,7 @@ Project 3C is a critical venture aimed at extending lifespan and improving aging
 
 The successful completion of Project 3C in vertebrate models would represent a major milestone in the overarching research program, setting the stage for groundbreaking applications in aging research and regenerative medicine. The transition from vertebrate models to non-human primates and eventually to human clinical applications signifies the project's ultimate goal of extending healthy lifespan and combating aging-related diseases.
 
-## X. Benchmarks for Each Phase of the Program
+## IX. Benchmarks for Each Phase of the Program
 
 The benchmarks listed below are crucial milestones for assessing the progress and success of each project within the program. These benchmarks are cross-referenced to multiple projects, indicating instances where projects may overlap or require collaborative efforts. It is important to note that these benchmarks are based on current assumptions and projections and may be subject to revisions as the program progresses and new insights are gained.
 
@@ -536,7 +536,7 @@ The benchmarks listed below are crucial milestones for assessing the progress an
 
 *Table 1: Performance Criteria/Benchmarks for the Bioelectric Phenomena Research Program*
 
-## XI. Conclusions
+## X. Conclusions
 The research program laid out in this roadmap represents an effort to unravel and manipulate the complex bioelectric phenomena underlying biological processes, particularly aging. The integration of advanced computational models, innovative bioelectric modulation techniques, and the development of cutting-edge hardware for CRUD operations on an organism's electrome, sets the stage for transformative breakthroughs in biomedical research.
 
 The program is designed not to replace existing biological research tools but to complement and extend them into realms currently unexplored or underutilized. By focusing on dynamic systems models of aging, lifespan studies in invertebrate and vertebrate models, and the development of non-invasive bioelectric intervention technologies, we aim to gain deeper insights into the aging process and develop novel therapeutic strategies for age-related diseases.
