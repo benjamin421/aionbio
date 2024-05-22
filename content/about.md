@@ -10,7 +10,7 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-Aion's purpose is to uncover novel intervention strategies targeting aging. 
+Developing the operating system for the bioelectric code to solve aging. 
 {{< /lead >}}
 
 ## Science
@@ -18,7 +18,7 @@ Aion's purpose is to uncover novel intervention strategies targeting aging.
 
 — Ant Fugue | Gödel, Escher, Bach
 
-Our research focuses on investigating the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness this knowledge to develop innovative, precise, and translatable rejuvenation therapies. These techniques have the potential to revolutionize regenerative medicine, addressing age-related decline and improving overall health. By unlocking the secrets of bioelectric networks, we hope to pave the way for a future where rejuvenation and regeneration are possible and accessible to all.
+Our research focuses on investigating the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness this knowledge to develop efficient, precise, and translatable rejuvenation therapies. These techniques have the potential to revolutionize regenerative medicine, addressing age-related decline and improving overall health. 
 
 {{< button href="https://www.aion.bio/research-roadmap/" target="_self" >}}
 Research Roadmap
@@ -28,7 +28,7 @@ Research Roadmap
 
 ### Affiliated Publications
 
-- June 19, 2023 | [Bioelectricity: A top-down control model to promote more effective aging interventions](https://www.liebertpub.com/doi/10.1089/bioe.2023.0013)
+- March 15, 2024 | [Bioelectricity: A top-down control model to promote more effective aging interventions](https://www.liebertpub.com/doi/10.1089/bioe.2023.0013)
 
 - November 12, 2022 | [Reductionism is not effective](https://www.consciousrepository.com/p/reductionism-is-not-effective)
 
@@ -36,7 +36,7 @@ Research Roadmap
 ---
 ## Ethos
 
-At Aion, we prioritize truth-seeking over financial gain or prestige. 
+We prioritize truth-seeking over financial gain or prestige. 
 
 **What this means:**
 - All actions are purpose driven and a means to an end.
