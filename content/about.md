@@ -18,7 +18,7 @@ Developing the operating system for the bioelectric code to solve aging.
 
 — Ant Fugue | Gödel, Escher, Bach
 
-Our research focuses on investigating the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness this knowledge to develop efficient, precise, and translatable rejuvenation therapies. These techniques have the potential to revolutionize regenerative medicine, addressing age-related decline and improving overall health. 
+Our research investigates the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness this knowledge to develop efficient, precise, and translatable rejuvenation therapies. These techniques have the potential to revolutionize regenerative medicine, addressing age-related decline and improving overall health. 
 
 {{< button href="https://www.aion.bio/research-roadmap/" target="_self" >}}
 Research Roadmap
