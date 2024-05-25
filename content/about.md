@@ -39,7 +39,7 @@ Research Roadmap
 We prioritize truth-seeking over financial gain or prestige. 
 
 **What this means:**
-- All actions are purpose driven and a means to an end.
+- All actions are purpose driven.
 - Our highest virtues are diligence and humility.
 - We collaborate with others to share knowledge.
 - We are open-minded and adaptable.

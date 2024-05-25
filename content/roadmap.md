@@ -205,13 +205,13 @@ In preparation for phase one, the selection of performers - be it academic resea
 ### A. PHASE 1: Proof-of-Concept Projects {#phase-1}
 Phase 1 of our research program is dedicated to establishing foundational technologies and methodologies that will enable significant advancements in our understanding and manipulation of bioelectric phenomena. This phase includes three key projects:
 
-*i. Project 1A. Optimizing iPSC Generation with Integrated Computational and Chemical Methodologies*
+*i. Project 1A. Optimize iPSC Yield with Chemical Reprogramming*
 
 - This project aims to revolutionize induced pluripotent stem cell (iPSC) production by harmonizing advanced computational models with chemical reprogramming techniques. The objectives are to enhance computational modeling, develop novel chemical reprogramming protocols, integrate electrophysiological data, and optimize and scale up the process. This project aims to significantly improve the yield and quality of iPSCs, setting a new benchmark in the field and laying a solid foundation for future advancements in stem cell research and regenerative medicine.
 
-*ii. Project 1B. Design and Preliminary Testing of Deep Tissue Read Hardware*
+*ii. Project 1B. Develop a Robust Voltage Reporter for Non-Excitable Cells*
 
-- The goal of Project 1B is to develop novel technology capable of deep tissue physiological data acquisition, addressing the need for high penetration depth, resolution, non-invasiveness, safety, sensitivity, specificity, real-time data processing, and compatibility with existing medical infrastructure. The focus at this stage is on the design phase, emphasizing the creation of a prototype that meets the outlined criteria. 
+- The goal of Project 1B is to develop novel technology capable of high resolution physiological data acquisition in non-excitable cells. We will address the need for high penetration depth in subsequent stages. Benchmarks here include resolution, non-invasiveness, sensitivity, specificity, real-time data processing, and compatibility with existing infrastructure. The focus at this stage is on the design phase, emphasizing the creation of a prototype that meets the outlined criteria. 
 
 *iii. Project 1C. Advanced Computational Strategies for Electrome Data Management*
 
@@ -223,74 +223,59 @@ Phase 1 of our research program is dedicated to establishing foundational techno
 
 Each project within Phase 1 is designed to tackle specific challenges and create opportunities for breakthroughs in bioelectric research, setting the stage for more advanced phases of our research roadmap.
 
-#### i. Project 1A. Optimizing iPSC Generation with Integrated Computational and Chemical Methodologies {#project-1a}
+#### i. Project 1A. Optimize iPSC Yield with Chemical Reprogramming {#project-1a}
+This project aims to utilize novel techniques in order to increase the yeild of induced pluripotent stem cells during cell reprogramming. It will be tightly coupled with [Project 1B](#project-1b). 
 
-This project aims to revolutionize the field of induced pluripotent stem cell (iPSC) production by integrating advanced computational feedback with innovative chemical reprogramming techniques. Key objectives and milestones are as follows:
+Key objectives and milestones are as follows:
 
-1.  *Computational Modeling Enhancement*:
-    - Develop and refine a sophisticated computational model, possibly an adaptation of the BioElectric Tissue Simulation Engine (BETSE), to simulate and predict cellular responses during chemical reprogramming.
+1. *Computational Modeling Enhancement*:
+    - Develop and refine a sophisticated computational model, likely an adaptation of the BioElectric Tissue Simulation Engine (BETSE), to simulate and predict cellular responses during chemical reprogramming.
     - This model should be capable of real-time analysis and adjustment of reprogramming protocols based on live cell data.
-2.  *Chemical Reprogramming Protocol Development*:
+2. *Chemical Reprogramming Protocol Development*:
     - Design and test a suite of chemical compounds for inducing iPSC generation, focusing on non-genetic, purely chemical methods.
     - These compounds should demonstrate efficacy across a range of fibroblast lines with minimal cytotoxicity.
-3.  *Electrophysiological Data Integration*:
+3. *Electrophysiological Data Integration*:
     - Employ voltage fluorescent dye tracking to monitor bioelectric changes in cells during reprogramming, providing critical feedback to the computational model.
     - Integrate data from multi-electrode arrays (MEAs) for broader electrophysiological insights.
-4.  *Optimization and Scale-up*:
+4. *Optimization and Scale-up*:
     - Achieve a target yield of iPSCs that represents a significant improvement over current benchmarks, aiming for an order of magnitude increase.
     - Scale up the optimized protocol for larger culture volumes, maintaining efficiency and cell quality.
-5.  *Technological Adaptation and Flexibility*:
+5. *Technological Adaptation and Flexibility*:
     - Ensure that the methodologies developed are adaptable to various cell types and conditions, anticipating future expansions to other cell types like neurons and osteocytes.
     - Maintain flexibility in the approach, allowing for iterative improvements and modifications based on ongoing research findings.
 
-This project is fundamental to the overarching goal of enhancing iPSC yield and quality through innovative and interdisciplinary approaches. The success of this project will lay the groundwork for further advancements in stem cell research and regenerative medicine.
+The success of this project will lay the groundwork for further advancements in stem cell research and regenerative medicine. 
 
-#### ii. Project 1B. Design and preliminary testing of Deep Tissue Read Hardware {#project-1b}
-This project is needed to create a novel technology to acquire deep tissue physiological data. The following design criteria must be considered:
+#### ii. Project 1B. Develop a Robust Voltage Reporter for Non-Excitable Cells {#project-1b}
+The purpose of this project is to develop a method for optaining cell membrane potential at greater resolution in non-excitable cells. There is a wealth of existing techniques for reproting membrane potential in excitable cell types such as neurons and cardiac cells, however we require aim for method that has temporal resolution on par with single cell patch clamp with the spatial resolution of less precise methods such as dyes or genetically encoded voltage indicators. 
+
+The following design criteria must be considered:
 
 1.  *Depth of Penetration and Resolution*:
-    - The hardware must be capable of penetrating deep into tissues without losing resolution or signal strength. This is crucial for accurately capturing bioelectric data from organs and tissues located deep within the body.
-2.  *Non-Invasiveness and Safety*:
-    - The technology should be as non-invasive as possible to minimize discomfort and risk to subjects. This includes considerations for minimizing exposure to potentially harmful energies or substances.
-    - Safety features must comply with medical device standards and regulations.
-3.  *Sensitivity and Specificity*:
+    - Must be capable of penetrating deep into tissues without losing resolution or signal strength. This is crucial for accurately capturing bioelectric data from organs and tissues located deep within the body.
+2.  *Sensitivity and Specificity*:
     - High sensitivity is required to detect subtle bioelectric signals that are key indicators of physiological states.
-    - The hardware should have the specificity to distinguish between different types of bioelectric activities, such as those from muscles, nerves, or other tissues.
-4.  *Real-Time Data Acquisition and Processing*:
-    - The ability to acquire and process data in real-time is essential for immediate analysis and potential clinical applications.
+    - Target is less than 5 mV margin for error. 
+3.  *Real-Time Data Acquisition and Processing*:
+    - The ability to acquire and process data in real-time.
     - Integration with advanced computational models for data interpretation and visualization.
-5.  *Compatibility with Existing Medical Infrastructure*:
-    - Design should consider integration with current medical technologies and practices.
-    - The hardware should be user-friendly for healthcare professionals, with minimal training required for operation.
-6.  *Scalability and Adaptability*:
-    - The technology should be scalable for different sizes and types of organisms, including humans.
-    - It must be adaptable to various research and clinical needs, possibly through modular design or adjustable settings.
-7.  *Durability and Reliability*:
-    - The hardware must be durable and reliable for repeated use in various environments, from research laboratories to clinical settings.
-    - Maintenance requirements should be minimal, with easy troubleshooting and repair options.
-8.  *Ethical and Regulatory Compliance*:
-    - Design and testing phases must adhere to ethical guidelines, particularly in the context of human or animal use.
-    - Compliance with regulatory bodies such as the FDA or EMA for potential clinical applications is essential.
+4.  *Scalability and Adaptability*:
+    - The technology should be scalable for different types of cells and tissue culture sizes.
 
-The successful design and preliminary testing of deep tissue read hardware according to these criteria will significantly advance our capabilities in understanding and manipulating deep tissue physiological processes, paving the way for novel diagnostic and therapeutic tools.
-
-This particular project for this stage of the program should be centered on design without fully testing performance of the building blocks. However, there must be a compelling case for why a given design will be able to meet the above criteria for success and experimental demos showing this is strongly encouraged if possible.
+The successful design and preliminary testing of a voltage reporter according to these criteria will significantly advance our capabilities in understanding and manipulating physiological processes, paving the way for novel diagnostic and therapeutic tools.
 
 #### iii. Project 1C. Advanced Computational Strategies for Electrome Data Management {#project-1c}
 In this project, we aim to address the computational challenges associated with the processing and interpretation of comprehensive electrome data sets. As we anticipate the acquisition of extensive whole organism electrome data – encompassing all ionic currents across cellular and organismal levels – we recognize the need for advanced computational solutions to effectively manage and utilize this wealth of information. This project will focus on two primary objectives:
 
-1.  *Data Compression and Efficient Processing*:
-    - **Objective**: Develop methods to condense massive electrome data sets into more manageable sizes without significant loss of critical information.
-    - **Approach**: Explore advanced data compression algorithms that can efficiently reduce the volume of electrome data. This may involve innovative techniques in signal processing, data summarization, and feature extraction.
-    - **Outcome**: Achieve a balance between data comprehensiveness and computational manageability, enabling more effective use of electrome data within the broader goals of our project.
-2.  *Integration of Causal Emergence for Macro-scale Data Representation*:
+1.  *Integration of Causal Emergence for Macro-scale Data Representation*:
     - **Objective**: Investigate the application of causal emergence theory as a framework for creating macro-scale representations of electrome data.
     - **Approach**: Develop algorithms that identify causally relevant patterns at larger scales, potentially simplifying the complexity of the data without losing its essential predictive and explanatory power.
     - **Outcome**: Facilitate a more intuitive understanding of the electrome data, highlighting key bioelectric interactions and phenomena that are crucial for our research objectives.
-3.  *Development of Fast Algorithms for Quantifying Effective Information*:
+2.  *Development of Fast Algorithms for Quantifying Effective Information*:
     - **Objective**: Create algorithms capable of rapidly quantifying the effective information contained within electrome datasets.
     - **Approach**: Design and test algorithms that can swiftly analyze electrome data to extract meaningful information, focusing on parameters that are most indicative of bioelectric states and dynamics.
     - **Outcome**: Provide a toolset for researchers to quickly assess and interpret large volumes of electrome data, aiding in decision-making and hypothesis testing.
+
 By undertaking these objectives, Project 1C aims to develop a robust computational framework capable of handling the complexities of whole organism electrome data. This framework will not only support our current research endeavors but also lay the groundwork for future advancements in the field of bioelectric research.
 
 #### iv. Project 1D. Exogenous Interventions to Promote Effective Model Organism Changes {#project-1d}
@@ -500,8 +485,9 @@ The benchmarks listed below are crucial milestones for assessing the progress an
 | Description                                        | Benchmark                                 | Project |
 | -------------------------------------------------- | ----------------------------------------- | ------- |
 | iPSC Yield Improvement from Fibroblasts            | 10x increase in yeild over current methods          | 1A      |
+| Robust Voltage Reporting in Non-Excitable Cells            | Less than 5 mV margin for error         | 1B      |
 | Generalization of iPSC Techniques to Other Cell Types | Effective reprogramming in neurons, bone cells, etc. | 2A |
-| Efficiency in Partial Cellular Reprogramming       | Successful demonstration in model organisms | 2A      |
+| Efficiency in Partial Cellular Reprogramming       | Successful demonstration in model cells | 2A      |
 | Lifespan Extension in Invertebrate Models          | Measurable increase in lifespan and healthspan | 2B      |
 | Deep Tissue Electrome Imaging Resolution           | Ability to visualize bioelectric activity at a specific depth | 1B, 2C |
 | Non-Invasive Bioelectric Manipulation Efficacy     | Demonstration of targeted CRUD operations in model organisms | 3B |
