@@ -25,7 +25,7 @@ If you have questions about anything you read here, or are interested in joining
 - We can reversibly block mitosis by altering membrane potential. [^6]
 - Small molecules can be used with transcription factors to increase the yield of iPSCs and the speed of the reprogramming process. [^7] [^8]
 - Endogenous voltage potentials play an important role in cell communication and coordination. [^9] [^10] [^11]
-- Most successful reprogramming methods to date are 0.1-1% effectieve.[^12] 
+- Most successful reprogramming methods to date are 0.1-1% effective.[^12] 
 
 ![Image of bioelectric interventions influencing downstream transcriptional responses.](/img/upstream.png)
 *Image from Anderson in Bioelectricity, 2024*[^13]
