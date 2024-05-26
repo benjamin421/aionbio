@@ -25,18 +25,19 @@ If you have questions about anything you read here, or are interested in joining
 - We can reversibly block mitosis by altering membrane potential. [^6]
 - Small molecules can be used with transcription factors to increase the yield of iPSCs and the speed of the reprogramming process. [^7] [^8]
 - Endogenous voltage potentials play an important role in cell communication and coordination. [^9] [^10] [^11]
+- Most successful reprogramming methods to date are 0.1-1% effectieve.[^12] 
 
 ![Image of bioelectric interventions influencing downstream transcriptional responses.](/img/upstream.png)
-*Image from Anderson in Bioelectricity, 2024*[^12]
+*Image from Anderson in Bioelectricity, 2024*[^13]
 
 ## What we think
 A bioelectric approach to reprogramming will lead to an order of magnitude increase in the yield of iPSCs.
 
 ## How we will find out
 1) Benchmark existing reprogramming techniques for consistency of results measured against iPSC yield. 
-2) Develop a robust voltage reporting technique to use on non-excitable cells.[^13]
+2) Develop a robust voltage reporting technique to use on non-excitable cells.[^14]
 3) Utilize voltage reporting technique from (2) on cell reprogramming method from (1). 
-4) Use data from (3) to create synergistic feedback loop between computational models[^14] and experimental trials in chemical reprogramming to increase iPSC yield. 
+4) Use data from (3) to create synergistic feedback loop between computational models[^15] and experimental trials in chemical reprogramming to increase iPSC yield. 
 
 
 
@@ -51,6 +52,7 @@ A bioelectric approach to reprogramming will lead to an order of magnitude incre
 [^9]: Matthew P. Harris; Bioelectric signaling as a unique regulator of development and regeneration. Development 15 May 2021; 148 (10): dev180794. doi: https://doi.org/10.1242/dev.180794
 [^10]: Levin M. Molecular bioelectricity: how endogenous voltage potentials control cell behavior and instruct pattern regulation in vivo. Mol Biol Cell. 2014 Dec 1;25(24):3835-50. doi: 10.1091/mbc.E13-12-0708. PMID: 25425556; PMCID: PMC4244194.
 [^11]: George LF, Bates EA. Mechanisms Underlying Influence of Bioelectricity in Development. Front Cell Dev Biol. 2022 Feb 14;10:772230. doi: 10.3389/fcell.2022.772230. PMID: 35237593; PMCID: PMC8883286.
-[^12]: Anderson, Benjamin. "Bioelectricity: A top-down control model to promote more effective aging interventions." Bioelectricity 6.1 (2024): 2-12.
-[^13]: For more on this, see [Project 1B](https://www.aion.bio/research-roadmap/#project-1b).
-[^14]: Such as [BETSE](https://github.com/betsee/betse).
+[^12]: Al Abbar A, Ngai SC, Nograles N, Alhaji SY, Abdullah S. Induced Pluripotent Stem Cells: Reprogramming Platforms and Applications in Cell Replacement Therapy. Biores Open Access. 2020 Apr 28;9(1):121-136. doi: 10.1089/biores.2019.0046. PMID: 32368414; PMCID: PMC7194323.
+[^13]: Anderson, Benjamin. "Bioelectricity: A top-down control model to promote more effective aging interventions." Bioelectricity 6.1 (2024): 2-12.
+[^14]: For more on this, see [Project 1B](https://www.aion.bio/research-roadmap/#project-1b).
+[^15]: Such as [BETSE](https://github.com/betsee/betse).
