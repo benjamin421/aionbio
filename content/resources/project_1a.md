@@ -15,7 +15,7 @@ Last updated — May 2024
 
 ## Introduction
 
-The purpose of [Project 1A](https://www.aion.bio/research-roadmap/#project-1a) is to utilize a chemical based strategy to increase the yield of induced pluripotent stem cells (iPSCs) during cell reprogramming. Our benchmark goal is 10%. We will integrate electrophysiological data we record during the reprogramming process to inform said strategies. Our core hypothesis is that by modulating the signals cells use to coordinate towards shared goals as opposed to micromanaging the underlying single cell state, we can more effectively control cell fate during reprogramming. 
+The purpose of [Project 1A](https://www.aion.bio/research-roadmap/#project-1a) is to utilize a bioelectric strategy to increase the yield of induced pluripotent stem cells (iPSCs) during cell reprogramming. We will integrate electrophysiological data we record during the reprogramming process to inform said strategies, creating a feedback loop between computational modeling and experimentation. Our benchmark goal is 10%.  Our core hypothesis is that by modulating the signals cells use to coordinate towards shared goals as opposed to micromanaging the underlying single cell state, we can more effectively control cell fate during reprogramming. 
 
 If you have questions about anything you read here, or are interested in joining our internal efforts to tackle these objectives, send us a note to [info@aion.bio](mailto:info@aion.bio).
 
