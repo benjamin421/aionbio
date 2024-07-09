@@ -18,7 +18,7 @@ Developing the operating system for the bioelectric code to solve aging.
 
 — Ant Fugue | Gödel, Escher, Bach
 
-Our research investigates the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness this knowledge to develop efficient, precise, and translatable rejuvenation therapies. These techniques have the potential to revolutionize regenerative medicine, addressing age-related decline and improving overall health. 
+Our research investigates the flow of causally relevant information within complex biological systems, particularly in relation to endogenous bioelectric networks. By delving into the intricate communication and signaling mechanisms of living organisms, we aim to uncover optimal strategies that can effectively modulate these networks. Our ultimate goal is to harness these strategies to develop efficient, precise, and translatable rejuvenation therapies. 
 
 {{< button href="https://www.aion.bio/research-roadmap/" target="_self" >}}
 Research Roadmap
@@ -48,14 +48,12 @@ Contact us at [info@aion.bio](mailto:info@aion.bio) to join or support our missi
 
 ---
 
-## Aion in Mythology
+## Mythology
 
 In Greek Mythology, there are 3 gods who are associated with the concept of time: Chronos, Kairos and **Aion**.
 
-Chronos represents the linear and cyclical progression of time. Kairos, on the other hand, represents the fleeting and opportune moments of time. 
+Chronos represents the linear progression of time. Kairos, on the other hand, represents the fleeting and opportune moments of time. 
 
 Aion was the Greek god of eternity, often depicted as a young man with a lion's head and wings. He was considered a primordial deity, representing the concept of time as infinite and cyclical. Aion is associated with the eternal cycle of life, death, and rebirth, and was believed to be the personification of the cosmic cycle of time that governs the universe.
 
 ![The Greek God Aion.](/img/aion.jpeg)
-
-In art, Aion was often depicted holding a serpent or a wheel, which symbolized the continuous motion of time. The serpent was associated with regeneration and renewal, as it sheds its skin and is reborn, while the wheel symbolized the cyclical nature of time, with no beginning or end.
