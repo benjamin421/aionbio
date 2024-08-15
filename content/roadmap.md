@@ -10,7 +10,7 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-A comprehensive overview of the research being pursued by Aion | Last updated — November 17, 2023
+An overview of Aion's research goals | Last updated — November 17, 2023
 {{< /lead >}}
 
 ## I. Executive Summary
@@ -24,7 +24,7 @@ In successfully realizing this vision, Aion promises to open new avenues in trea
 This roadmap describes a process that might make it possible to intervene in biological systems with far more certainty than what can be done with the existing approaches. The purpose of this roadmap is to lay out an actionable plan to coordinate people to build this technology and it is intended for the following readers:
 1) End users who could imagine using the matured technology which could include people working in biopharma, biotechnology, chemical manufacturing, medical and fitness wearables, or beyond.
 2) Builders who could be funded to create this technology, including people from academia, government research labs, start-ups, or established companies.
-3) Individuals and groups that might be interested in providing philanthropic support of Aion Biosciences to push this forward.
+3) Individuals and groups that might be interested in providing support for Aion Biosciences to push this forward.
 4) Or anyone with an interest in the sciences who thinks there should be more ways to bring useful — or even science-fiction — things to the world.
 
 This roadmap is a living document and needs input from the community. Please [reach out to us](mailto:info@aion.bio) if you are opinionated about these ideas or can think of ways to make it happen!
