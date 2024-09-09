@@ -59,7 +59,7 @@ These goals are ambitious; however, they are an essential proof-of-concept for t
 We currently operate out of a small but functional lab space in St. Louis. As one of our first scientific hires, you'll have input on future equipment acquisitions and lab expansion as we grow.
 
 ## To Apply
-Please send your CV, a two-page research proposal outlining your vision for the first year of bioelectric reprogramming experiments, and a brief statement on why you’re excited about joining Aion Biosciences to hiring@aion.bio. We review applications on a rolling basis, with an expected start date within 1-2 months after the offer. 
+Please send your CV and a brief statement on why you’re excited about joining Aion Biosciences to hiring@aion.bio. We review applications on a rolling basis, with an expected start date within 1-2 months after the offer. 
 
 At Aion Biosciences, we're building a company that could reshape regenerative medicine. If you're ready for the challenge of your career and want to make a real impact, we want to hear from you.
 
