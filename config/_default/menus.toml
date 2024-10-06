@@ -25,10 +25,6 @@
   url = "mailto:info@aion.bio"
   weight = 25
 
-[[main]]
-  name = "Join Aion"
-  pageRef = "careers"
-  weight = 30
 
 
 
