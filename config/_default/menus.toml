@@ -16,15 +16,9 @@
   weight = 10
 
 [[main]]
-  name = "Roadmap"
-  pageRef = "roadmap"
-  weight = 20
-
-[[main]]
   name = "Contact"
   url = "mailto:info@aion.bio"
   weight = 25
-
 
 
 
