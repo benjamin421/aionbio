@@ -15,9 +15,11 @@ On-Site in Saint Louis, Missouri                                 .
 {{< /lead >}}
 
 ## Position Overview
-We are seeking a skilled part-time Biotech Laboratory Technician to join our innovative research team. The ideal candidate will contribute to our ongoing research projects while maintaining the highest standards of laboratory practices.
+We are seeking a skilled Biotech Laboratory Technician to join our research team. The ideal candidate will contribute to our ongoing research projects while maintaining the highest standards of laboratory practices.
 
-The successful candidate will work 20-25 hours per week, supporting our research staff in conducting experiments, maintaining laboratory equipment, and ensuring accurate documentation of all procedures.
+The successful candidate will work a minimum of 20 hours per week, supporting our research staff in conducting experiments, maintaining laboratory equipment, and ensuring accurate documentation of all procedures. 
+
+For the right candidate, we will hire full time. The right candidate = someone with a background in working with stem cells &/or electrophysiology. 
 
 ## Required Qualifications
 - Bachelor's degree in biology, chemistry, or related life sciences field preferred but not required. 
@@ -29,7 +31,7 @@ The successful candidate will work 20-25 hours per week, supporting our research
 ## Core Responsibilities
 - Prepare and process biological samples according to established protocols
 - Maintain detailed records of experiments and results in the laboratory's ELN system
-- Perform precise measurements and analytical procedures using various laboratory equipment
+- Perform various assays with literature-defined protocols and analytical procedures using various laboratory equipment
 - Clean and maintain laboratory equipment, ensuring proper calibration
 - Monitor and maintain laboratory inventory
 - Collaborate with research team members to support ongoing projects
@@ -42,7 +44,7 @@ The successful candidate will work 20-25 hours per week, supporting our research
 - Ability to work independently and manage time effectively
 
 ## Schedule
-Part-time position requiring 20-25 hours per week, with flexibility in scheduling. May include occasional weekend work as needed for time-sensitive experiments.
+This position requires a minimum of 20 hours per week, with flexibility in scheduling. May include occasional weekend work as needed for time-sensitive experiments. A candidate with background in more core experimental procedures may have the opportunity for full time employment. 
 
 ## Physical Requirements
 - Ability to stand for extended periods
