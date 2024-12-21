@@ -8,7 +8,7 @@
 colorScheme = "congo"
  darkMode = "true"
 # darkToggle = false
-# logo = "assets/img/logo.jpg"
+header.logo = "images/logo.png"
  description = "Disciple of Experience"
 # mainSections = ["section1", "section2"]
 # robots = ""
