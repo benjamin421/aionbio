@@ -6,24 +6,21 @@
     {{- $logo := resources.Get .Site.Params.header.logo }}
     {{- $logo_dark := resources.Get .Site.Params.header.logoDark }}
     {{- if $logo }}
-    <a href="{{ "" | relLangURL }}" class="mb-4 h-auto w-38 block pointer-events-none" style="background-color: darkslategrey">
+    <a href="{{ "" | relLangURL }}" class="mb-4 block pointer-events-none" style="background-color: #262626; max-width: 400px;">
       <img
         src="{{ $logo.RelPermalink }}"
-        width="{{ div $logo.Width 5 }}"
-        height="{{ div $logo.Height 5 }}"
-        class="h-auto w-38 object-cover{{ if $logo_dark }} hidden dark:block{{ end }}"
+        class="w-full h-auto object-contain{{ if $logo_dark }} hidden dark:block{{ end }}"
         alt="{{ .Site.Title }}"
       />
       {{- if $logo_dark }}
       <img
         src="{{ $logo_dark.RelPermalink }}"
-        width="{{ div $logo_dark.Width 5 }}"
-        height="{{ div $logo_dark.Height 5 }}"
-        class="h-auto w-38 object-cover dark:hidden"
+        class="w-full h-auto object-contain dark:hidden"
         alt="{{ .Site.Title }}"
       />
       {{- end }}
     </a>
+    
     {{- end }}
     {{- end }}
 
