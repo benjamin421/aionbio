@@ -35,7 +35,7 @@ Contact us at [info@aion.bio](mailto:info@aion.bio) to join or support our missi
 
 ---
 
-## Mythology
+## Mythos
 
 In Greek Mythology, there are 3 gods who are associated with the concept of time: Chronos, Kairos and **Aion**.
 
