@@ -11,14 +11,16 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Contact"
+  url = "mailto:info@aion.bio"
   weight = 10
 
 [[main]]
-  name = "Contact"
-  url = "mailto:info@aion.bio"
+  name = "Whitepaper"
+  url = "/aion.pdf"
   weight = 25
+
+
 
 
 

@@ -9,8 +9,8 @@ description: "Aion's purpose is to uncover novel intervention strategies targeti
 Aion (Greek: Αἰών): perpetual, unbound, eternal time. 
 {{< /lead >}}
 
-Working on the operating system for the bioelectric code. We will use this to develop efficient, precise, and translational rejuvenation strategies. 
+We are developing closed-loop systems to remotely read and write bioelectric states in deep tissue through external electromagnetic and acoustic fields. 
 
-[Learn More.]({{< ref "about" >}})
+[Learn More.](aion.pdf)
 
 
