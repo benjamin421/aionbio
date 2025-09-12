@@ -1,6 +1,6 @@
 ---
 title: "Aion Biosciences"
-description: "Aion's purpose is to uncover novel intervention strategies targeting aging."
+description: "We are developing closed-loop systems to remotely read and write bioelectric states."
 ---
 
 
