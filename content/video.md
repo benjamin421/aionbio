@@ -3,7 +3,7 @@ title: "SPV MEMO"
 date: 2025-10-21
 draft: false
 description: "We are developing closed-loop systems to remotely read and write bioelectric states."
-slug: "Video"
+slug: "spv-memo"
 showDate: false
 showAuthor: false
 showReadingTime: false
