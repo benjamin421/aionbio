@@ -66,7 +66,7 @@ We believe we can regrow thymuses using external fields. Various fate controls w
 
 This is also attractive for longevity: after age 30, immunosenescence begins, the thymus shrinks which leads to inflammaging issues.
 
-We build a giant company with medbeds in every home.
+We want to build a giant company that puts a medbed in every home.
 We can get there.
 
 That's Aion.
