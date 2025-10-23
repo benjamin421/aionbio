@@ -61,7 +61,7 @@ We have done this for both reprogramming for aging and stem cell applications an
 
 We have a solid team here, we have Benjamin Anderson, our CEO; me, the chief science officer; 2 scientists and a founding engineer, all of us wear multiple hats and are super adaptable.
 
-We aim to solve aging but need a beachhead market. The first thing we're going after is thymus regeneration because the market is large. There is an $80 TAM for just patient who have thier immune system compromised after chemotherapy and their thymus is essentially shrunked.
+We aim to solve aging but need a beachhead market. The first thing we're going after is thymus regeneration because the market is large. There is an $80B TAM for just patient who have thier immune system compromised after chemotherapy and their thymus is essentially shrunked.
 
 We believe we can regrow the thymus using external fields. Essentially anything we can do to cell fates can help the thymus. If we can make cells differentiate, dedifferentiate or grow, this can be used for the thymus. 
 
